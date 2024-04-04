@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+/*minor css styling for navbar, login component, h3 title*/
+.navbar {
+  background-color: #282c34;
+}
+
+#signIn {
+  background-color: #079634;
+  border: solid black;
+}
+
+#h3 {
+  border: solid black;
+}
